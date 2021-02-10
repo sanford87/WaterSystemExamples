@@ -2,16 +2,13 @@
 Example project for Unreal Water system
 
 
+
 <p align="center">
-  <img src="https://ionizedgames.files.wordpress.com/2021/02/riverparticles_480x271_4s.gif" />
+  <img src="https://media.githubusercontent.com/media/sanford87/WaterSystemExamples/main/Guide/RiverParticles_480X271_2S.gif" />
 </p>
 
 <p align="center">
-  <img src="https://ionizedgames.files.wordpress.com/2021/02/beachparticles_480x271_4s.gif" />
-</p>
-
-<p align="center">
-  <img src="https://ionizedgames.files.wordpress.com/2021/02/floatingparticles_480x271_4s.gif" />
+  <img src="https://media.githubusercontent.com/media/sanford87/WaterSystemExamples/main/Guide/LakeParticles_480X271_2S.gif" />
 </p>
 
 <p align="center">
